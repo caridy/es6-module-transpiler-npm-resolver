@@ -8,13 +8,13 @@
     "es6",
     "module",
     "transpiler",
-    "system",
-    "module-formatter"
+    "resolver",
+    "npm",
+    "jsnext"
   ],
   "bugs": "https://github.com/caridy/es6-module-transpiler-npm-resolver/issues",
   "main": "index.js",
   "files": [
-    "lib/",
     "index.js"
   ],
   "repository": {
