@@ -54,7 +54,7 @@ The `es6-module-transpiler-npm-resolver` will use the  mechanism used for node t
 
 ### Executable
 
-If you plan to use the `compile-module` CLI, the resolver can be used directly from the command line:
+If you plan to use the `compile-modules` CLI, the resolver can be used directly from the command line:
 
 ```
 $ npm install -g es6-module-transpiler
