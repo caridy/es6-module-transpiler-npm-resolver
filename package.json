@@ -1,6 +1,6 @@
 {
   "name": "es6-module-transpiler-npm-resolver",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "ES6 Module Transpiler Extension to Resolver from NPM modules with jsnext:main flag.",
   "author": "Caridy Patino <caridy@gmail.com>",
   "homepage": "https://github.com/caridy/es6-module-transpiler-npm-resolver",
@@ -22,13 +22,10 @@
     "url": "https://github.com/caridy/es6-module-transpiler-npm-resolver.git"
   },
   "license": "MIT",
-  "dependencies": {
-    "recast": "^0.6.7"
-  },
   "devDependencies": {
-    "es6-module-transpiler": "^0.6.0"
+    "es6-module-transpiler": "~0.8.2"
   },
   "peerDependencies": {
-    "es6-module-transpiler": "^0.6.0"
+    "es6-module-transpiler": "~0.8.2"
   }
 }
