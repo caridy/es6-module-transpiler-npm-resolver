@@ -1,6 +1,6 @@
 {
   "name": "es6-module-transpiler-npm-resolver",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ES6 Module Transpiler Extension to Resolver from NPM modules with jsnext:main flag.",
   "author": "Caridy Patino <caridy@gmail.com>",
   "homepage": "https://github.com/caridy/es6-module-transpiler-npm-resolver",
